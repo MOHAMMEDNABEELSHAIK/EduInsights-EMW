@@ -1,0 +1,19 @@
+faculty_id,faculty_name,specialization,active_batches,sessions_delivered,avg_feedback_rating
+FAC-001,Instructor 01,Robotics,3,18,5.0
+FAC-002,Instructor 02,Automobile Tech,2,61,4.5
+FAC-003,Instructor 03,Robotics,1,17,3.7
+FAC-004,Instructor 04,Automobile Tech,1,69,4.8
+FAC-005,Instructor 05,Coding & AI,5,31,4.1
+FAC-006,Instructor 06,Fabrication,1,19,3.6
+FAC-007,Instructor 07,Space Science,4,17,4.3
+FAC-008,Instructor 08,Coding & AI,5,27,4.9
+FAC-009,Instructor 09,Biotechnology,3,56,4.0
+FAC-010,Instructor 10,Robotics,2,18,4.3
+FAC-011,Instructor 11,Coding & AI,4,78,3.8
+FAC-012,Instructor 12,Marine Tech,5,62,3.7
+FAC-013,Instructor 13,Space Science,1,36,3.7
+FAC-014,Instructor 14,Biotechnology,5,93,4.6
+FAC-015,Instructor 15,Fabrication,5,66,4.8
+FAC-016,Instructor 16,Coding & AI,1,67,3.8
+FAC-017,Instructor 17,Biotechnology,1,26,4.0
+FAC-018,Instructor 18,Coding & AI,4,70,3.9

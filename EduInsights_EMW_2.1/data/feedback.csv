@@ -1,0 +1,261 @@
+feedback_id,course_name,feedback_date,feedback_text,demo_sentiment_label
+FDB-0001,Automobile Technology,2025-05-25,Communication about sessions can improve.,Negative
+FDB-0002,Civil & Infrastructure Tech,2026-01-27,Great hands-on projects and helpful mentors.,Positive
+FDB-0003,Digital Fabrication,2026-07-16,Great hands-on projects and helpful mentors.,Positive
+FDB-0004,Biotechnology Basics,2026-08-01,Great hands-on projects and helpful mentors.,Positive
+FDB-0005,Digital Fabrication,2026-09-16,My child enjoys the robotics sessions.,Positive
+FDB-0006,Marine Technology,2025-02-21,Great hands-on projects and helpful mentors.,Positive
+FDB-0007,Digital Fabrication,2026-10-06,The class pace is sometimes too fast.,Negative
+FDB-0008,Automobile Technology,2026-04-02,The project materials were provided.,Neutral
+FDB-0009,Agritech Innovation,2025-10-17,The schedule changes too often.,Negative
+FDB-0010,Coding & AI Explorers,2026-08-24,Communication about sessions can improve.,Negative
+FDB-0011,Agritech Innovation,2026-10-23,Fun and engaging class with useful activities.,Positive
+FDB-0012,Biotechnology Basics,2025-05-24,The instructor explains concepts clearly.,Positive
+FDB-0013,Biotechnology Basics,2025-05-27,The project materials were provided.,Neutral
+FDB-0014,Robotics Foundations,2025-09-28,Great hands-on projects and helpful mentors.,Positive
+FDB-0015,Civil & Infrastructure Tech,2026-03-14,Need more time for practical projects.,Negative
+FDB-0016,Biotechnology Basics,2026-04-21,Communication about sessions can improve.,Negative
+FDB-0017,Digital Fabrication,2026-09-01,Fun and engaging class with useful activities.,Positive
+FDB-0018,Robotics Foundations,2026-10-24,My child enjoys the robotics sessions.,Positive
+FDB-0019,Space Science Lab,2025-02-19,We attended the scheduled session.,Neutral
+FDB-0020,Digital Fabrication,2025-08-08,The instructor explains concepts clearly.,Positive
+FDB-0021,Coding & AI Explorers,2025-11-20,Excellent practical learning experience.,Positive
+FDB-0022,Marine Technology,2025-12-15,Excellent practical learning experience.,Positive
+FDB-0023,Civil & Infrastructure Tech,2026-05-28,The instructor explains concepts clearly.,Positive
+FDB-0024,Agritech Innovation,2025-03-16,We attended the scheduled session.,Neutral
+FDB-0025,Digital Fabrication,2026-08-15,Need more time for practical projects.,Negative
+FDB-0026,Coding & AI Explorers,2025-06-30,My child enjoys the robotics sessions.,Positive
+FDB-0027,Agritech Innovation,2026-03-01,Great hands-on projects and helpful mentors.,Positive
+FDB-0028,Automobile Technology,2026-03-17,My child enjoys the robotics sessions.,Positive
+FDB-0029,Biotechnology Basics,2025-02-14,Fun and engaging class with useful activities.,Positive
+FDB-0030,Civil & Infrastructure Tech,2025-05-31,The instructor explains concepts clearly.,Positive
+FDB-0031,Robotics Foundations,2025-01-11,Great hands-on projects and helpful mentors.,Positive
+FDB-0032,Biotechnology Basics,2025-07-05,Excellent practical learning experience.,Positive
+FDB-0033,Civil & Infrastructure Tech,2025-05-11,The project materials were provided.,Neutral
+FDB-0034,Digital Fabrication,2025-11-12,My child enjoys the robotics sessions.,Positive
+FDB-0035,Digital Fabrication,2025-11-04,We attended the scheduled session.,Neutral
+FDB-0036,Marine Technology,2025-10-11,Great hands-on projects and helpful mentors.,Positive
+FDB-0037,Digital Fabrication,2025-03-17,We attended the scheduled session.,Neutral
+FDB-0038,Agritech Innovation,2025-04-16,Great hands-on projects and helpful mentors.,Positive
+FDB-0039,Civil & Infrastructure Tech,2025-10-05,Communication about sessions can improve.,Negative
+FDB-0040,Biotechnology Basics,2026-01-29,Excellent practical learning experience.,Positive
+FDB-0041,Digital Fabrication,2026-10-01,The instructor explains concepts clearly.,Positive
+FDB-0042,Automobile Technology,2025-07-06,We attended the scheduled session.,Neutral
+FDB-0043,Space Science Lab,2026-11-06,Excellent practical learning experience.,Positive
+FDB-0044,Robotics Foundations,2026-03-25,Great hands-on projects and helpful mentors.,Positive
+FDB-0045,Coding & AI Explorers,2025-10-06,Great hands-on projects and helpful mentors.,Positive
+FDB-0046,Digital Fabrication,2026-08-18,Great hands-on projects and helpful mentors.,Positive
+FDB-0047,Robotics Foundations,2025-08-21,The project materials were provided.,Neutral
+FDB-0048,Automobile Technology,2026-11-09,Communication about sessions can improve.,Negative
+FDB-0049,Space Science Lab,2025-07-10,Great hands-on projects and helpful mentors.,Positive
+FDB-0050,Automobile Technology,2026-05-11,We attended the scheduled session.,Neutral
+FDB-0051,Space Science Lab,2025-10-16,The instructor explains concepts clearly.,Positive
+FDB-0052,Biotechnology Basics,2025-09-29,The project materials were provided.,Neutral
+FDB-0053,Biotechnology Basics,2025-04-25,Need more time for practical projects.,Negative
+FDB-0054,Digital Fabrication,2026-06-12,Excellent practical learning experience.,Positive
+FDB-0055,Biotechnology Basics,2026-06-04,The project materials were provided.,Neutral
+FDB-0056,Space Science Lab,2025-04-02,My child enjoys the robotics sessions.,Positive
+FDB-0057,Robotics Foundations,2025-12-07,Fun and engaging class with useful activities.,Positive
+FDB-0058,Robotics Foundations,2025-08-24,Excellent practical learning experience.,Positive
+FDB-0059,Space Science Lab,2025-06-28,Need more time for practical projects.,Negative
+FDB-0060,Biotechnology Basics,2026-01-21,We attended the scheduled session.,Neutral
+FDB-0061,Biotechnology Basics,2025-10-14,Fun and engaging class with useful activities.,Positive
+FDB-0062,Biotechnology Basics,2025-04-12,Excellent practical learning experience.,Positive
+FDB-0063,Agritech Innovation,2026-05-23,Great hands-on projects and helpful mentors.,Positive
+FDB-0064,Automobile Technology,2025-02-17,My child enjoys the robotics sessions.,Positive
+FDB-0065,Digital Fabrication,2025-06-20,The instructor explains concepts clearly.,Positive
+FDB-0066,Automobile Technology,2025-10-06,My child enjoys the robotics sessions.,Positive
+FDB-0067,Civil & Infrastructure Tech,2025-03-26,Excellent practical learning experience.,Positive
+FDB-0068,Digital Fabrication,2026-09-11,My child enjoys the robotics sessions.,Positive
+FDB-0069,Automobile Technology,2025-05-07,Communication about sessions can improve.,Negative
+FDB-0070,Space Science Lab,2026-03-11,Great hands-on projects and helpful mentors.,Positive
+FDB-0071,Space Science Lab,2025-11-06,Great hands-on projects and helpful mentors.,Positive
+FDB-0072,Agritech Innovation,2025-02-18,The instructor explains concepts clearly.,Positive
+FDB-0073,Biotechnology Basics,2026-02-01,Excellent practical learning experience.,Positive
+FDB-0074,Civil & Infrastructure Tech,2025-03-17,We attended the scheduled session.,Neutral
+FDB-0075,Agritech Innovation,2025-01-20,My child enjoys the robotics sessions.,Positive
+FDB-0076,Digital Fabrication,2026-09-21,My child enjoys the robotics sessions.,Positive
+FDB-0077,Biotechnology Basics,2026-03-07,Excellent practical learning experience.,Positive
+FDB-0078,Civil & Infrastructure Tech,2026-09-26,Fun and engaging class with useful activities.,Positive
+FDB-0079,Agritech Innovation,2025-11-24,Fun and engaging class with useful activities.,Positive
+FDB-0080,Coding & AI Explorers,2025-10-26,Fun and engaging class with useful activities.,Positive
+FDB-0081,Marine Technology,2025-02-27,Excellent practical learning experience.,Positive
+FDB-0082,Agritech Innovation,2026-04-28,Excellent practical learning experience.,Positive
+FDB-0083,Biotechnology Basics,2026-03-17,Need more time for practical projects.,Negative
+FDB-0084,Civil & Infrastructure Tech,2025-01-05,Great hands-on projects and helpful mentors.,Positive
+FDB-0085,Biotechnology Basics,2025-11-15,Excellent practical learning experience.,Positive
+FDB-0086,Automobile Technology,2026-03-22,Great hands-on projects and helpful mentors.,Positive
+FDB-0087,Civil & Infrastructure Tech,2026-09-20,The instructor explains concepts clearly.,Positive
+FDB-0088,Biotechnology Basics,2026-10-20,Fun and engaging class with useful activities.,Positive
+FDB-0089,Space Science Lab,2026-04-29,The course content is interesting.,Neutral
+FDB-0090,Coding & AI Explorers,2026-04-11,The instructor explains concepts clearly.,Positive
+FDB-0091,Robotics Foundations,2026-05-29,Fun and engaging class with useful activities.,Positive
+FDB-0092,Agritech Innovation,2025-08-03,The course content is interesting.,Neutral
+FDB-0093,Coding & AI Explorers,2025-10-31,Fun and engaging class with useful activities.,Positive
+FDB-0094,Marine Technology,2026-05-31,We attended the scheduled session.,Neutral
+FDB-0095,Coding & AI Explorers,2025-10-22,Great hands-on projects and helpful mentors.,Positive
+FDB-0096,Agritech Innovation,2026-07-09,Great hands-on projects and helpful mentors.,Positive
+FDB-0097,Biotechnology Basics,2026-05-12,The schedule changes too often.,Negative
+FDB-0098,Biotechnology Basics,2026-01-29,Excellent practical learning experience.,Positive
+FDB-0099,Automobile Technology,2026-08-12,My child enjoys the robotics sessions.,Positive
+FDB-0100,Marine Technology,2025-10-19,We attended the scheduled session.,Neutral
+FDB-0101,Space Science Lab,2026-05-06,My child enjoys the robotics sessions.,Positive
+FDB-0102,Civil & Infrastructure Tech,2026-01-11,Excellent practical learning experience.,Positive
+FDB-0103,Space Science Lab,2025-11-18,Need more time for practical projects.,Negative
+FDB-0104,Civil & Infrastructure Tech,2025-10-07,The class pace is sometimes too fast.,Negative
+FDB-0105,Coding & AI Explorers,2026-10-25,Fun and engaging class with useful activities.,Positive
+FDB-0106,Digital Fabrication,2026-09-11,Need more time for practical projects.,Negative
+FDB-0107,Space Science Lab,2025-01-28,Great hands-on projects and helpful mentors.,Positive
+FDB-0108,Coding & AI Explorers,2025-08-14,The class pace is sometimes too fast.,Negative
+FDB-0109,Robotics Foundations,2025-10-01,The project materials were provided.,Neutral
+FDB-0110,Digital Fabrication,2025-04-17,Great hands-on projects and helpful mentors.,Positive
+FDB-0111,Biotechnology Basics,2026-03-16,We attended the scheduled session.,Neutral
+FDB-0112,Space Science Lab,2025-09-26,My child enjoys the robotics sessions.,Positive
+FDB-0113,Coding & AI Explorers,2025-03-22,Excellent practical learning experience.,Positive
+FDB-0114,Automobile Technology,2026-06-12,The instructor explains concepts clearly.,Positive
+FDB-0115,Automobile Technology,2025-02-20,My child enjoys the robotics sessions.,Positive
+FDB-0116,Digital Fabrication,2025-02-28,Fun and engaging class with useful activities.,Positive
+FDB-0117,Agritech Innovation,2026-04-13,We attended the scheduled session.,Neutral
+FDB-0118,Agritech Innovation,2025-07-09,The instructor explains concepts clearly.,Positive
+FDB-0119,Digital Fabrication,2025-07-13,Great hands-on projects and helpful mentors.,Positive
+FDB-0120,Digital Fabrication,2026-03-27,Need more time for practical projects.,Negative
+FDB-0121,Space Science Lab,2025-09-28,Excellent practical learning experience.,Positive
+FDB-0122,Civil & Infrastructure Tech,2026-03-09,My child enjoys the robotics sessions.,Positive
+FDB-0123,Space Science Lab,2025-12-21,Excellent practical learning experience.,Positive
+FDB-0124,Automobile Technology,2025-12-20,The instructor explains concepts clearly.,Positive
+FDB-0125,Coding & AI Explorers,2026-01-26,The instructor explains concepts clearly.,Positive
+FDB-0126,Digital Fabrication,2025-09-05,The instructor explains concepts clearly.,Positive
+FDB-0127,Marine Technology,2026-06-02,Fun and engaging class with useful activities.,Positive
+FDB-0128,Automobile Technology,2026-08-08,The instructor explains concepts clearly.,Positive
+FDB-0129,Robotics Foundations,2025-03-15,The project materials were provided.,Neutral
+FDB-0130,Marine Technology,2026-11-11,The instructor explains concepts clearly.,Positive
+FDB-0131,Space Science Lab,2025-11-18,Fun and engaging class with useful activities.,Positive
+FDB-0132,Automobile Technology,2026-04-16,Excellent practical learning experience.,Positive
+FDB-0133,Coding & AI Explorers,2026-11-03,Great hands-on projects and helpful mentors.,Positive
+FDB-0134,Automobile Technology,2026-06-23,We attended the scheduled session.,Neutral
+FDB-0135,Space Science Lab,2026-08-29,The instructor explains concepts clearly.,Positive
+FDB-0136,Coding & AI Explorers,2026-04-28,The course content is interesting.,Neutral
+FDB-0137,Digital Fabrication,2025-12-15,My child enjoys the robotics sessions.,Positive
+FDB-0138,Agritech Innovation,2025-05-28,The schedule changes too often.,Negative
+FDB-0139,Agritech Innovation,2025-01-27,My child enjoys the robotics sessions.,Positive
+FDB-0140,Digital Fabrication,2025-08-09,We attended the scheduled session.,Neutral
+FDB-0141,Automobile Technology,2025-03-23,Need more time for practical projects.,Negative
+FDB-0142,Robotics Foundations,2025-10-05,The project materials were provided.,Neutral
+FDB-0143,Coding & AI Explorers,2026-05-11,The instructor explains concepts clearly.,Positive
+FDB-0144,Marine Technology,2025-11-19,The course content is interesting.,Neutral
+FDB-0145,Coding & AI Explorers,2026-03-23,Fun and engaging class with useful activities.,Positive
+FDB-0146,Biotechnology Basics,2025-07-14,Need more time for practical projects.,Negative
+FDB-0147,Marine Technology,2026-03-27,Communication about sessions can improve.,Negative
+FDB-0148,Agritech Innovation,2026-03-06,The instructor explains concepts clearly.,Positive
+FDB-0149,Biotechnology Basics,2026-08-20,The instructor explains concepts clearly.,Positive
+FDB-0150,Agritech Innovation,2025-05-08,The class pace is sometimes too fast.,Negative
+FDB-0151,Robotics Foundations,2025-06-16,We attended the scheduled session.,Neutral
+FDB-0152,Civil & Infrastructure Tech,2025-12-28,We attended the scheduled session.,Neutral
+FDB-0153,Marine Technology,2025-11-19,The schedule changes too often.,Negative
+FDB-0154,Marine Technology,2026-04-15,Communication about sessions can improve.,Negative
+FDB-0155,Automobile Technology,2026-02-25,My child enjoys the robotics sessions.,Positive
+FDB-0156,Marine Technology,2025-06-04,The course content is interesting.,Neutral
+FDB-0157,Digital Fabrication,2025-12-21,Excellent practical learning experience.,Positive
+FDB-0158,Automobile Technology,2026-05-01,My child enjoys the robotics sessions.,Positive
+FDB-0159,Coding & AI Explorers,2025-02-13,The instructor explains concepts clearly.,Positive
+FDB-0160,Coding & AI Explorers,2025-06-10,Excellent practical learning experience.,Positive
+FDB-0161,Biotechnology Basics,2025-01-14,Great hands-on projects and helpful mentors.,Positive
+FDB-0162,Marine Technology,2026-02-27,My child enjoys the robotics sessions.,Positive
+FDB-0163,Robotics Foundations,2025-04-25,Communication about sessions can improve.,Negative
+FDB-0164,Civil & Infrastructure Tech,2026-01-31,The course content is interesting.,Neutral
+FDB-0165,Agritech Innovation,2025-12-15,Great hands-on projects and helpful mentors.,Positive
+FDB-0166,Space Science Lab,2026-09-14,The schedule changes too often.,Negative
+FDB-0167,Space Science Lab,2026-03-19,The project materials were provided.,Neutral
+FDB-0168,Space Science Lab,2025-07-28,My child enjoys the robotics sessions.,Positive
+FDB-0169,Marine Technology,2026-01-12,The instructor explains concepts clearly.,Positive
+FDB-0170,Space Science Lab,2025-03-12,The course content is interesting.,Neutral
+FDB-0171,Digital Fabrication,2025-07-01,My child enjoys the robotics sessions.,Positive
+FDB-0172,Marine Technology,2026-02-09,The instructor explains concepts clearly.,Positive
+FDB-0173,Coding & AI Explorers,2026-10-15,Fun and engaging class with useful activities.,Positive
+FDB-0174,Marine Technology,2026-02-23,Excellent practical learning experience.,Positive
+FDB-0175,Marine Technology,2025-06-27,Excellent practical learning experience.,Positive
+FDB-0176,Civil & Infrastructure Tech,2025-01-30,The instructor explains concepts clearly.,Positive
+FDB-0177,Automobile Technology,2026-04-13,The instructor explains concepts clearly.,Positive
+FDB-0178,Digital Fabrication,2025-10-01,The class pace is sometimes too fast.,Negative
+FDB-0179,Agritech Innovation,2025-02-22,The instructor explains concepts clearly.,Positive
+FDB-0180,Automobile Technology,2025-05-14,The schedule changes too often.,Negative
+FDB-0181,Agritech Innovation,2026-06-18,Fun and engaging class with useful activities.,Positive
+FDB-0182,Civil & Infrastructure Tech,2025-10-25,Excellent practical learning experience.,Positive
+FDB-0183,Digital Fabrication,2025-12-30,We attended the scheduled session.,Neutral
+FDB-0184,Space Science Lab,2026-03-08,Communication about sessions can improve.,Negative
+FDB-0185,Biotechnology Basics,2025-10-19,The instructor explains concepts clearly.,Positive
+FDB-0186,Agritech Innovation,2025-01-18,My child enjoys the robotics sessions.,Positive
+FDB-0187,Digital Fabrication,2025-02-16,Fun and engaging class with useful activities.,Positive
+FDB-0188,Space Science Lab,2026-02-23,Great hands-on projects and helpful mentors.,Positive
+FDB-0189,Civil & Infrastructure Tech,2026-06-06,My child enjoys the robotics sessions.,Positive
+FDB-0190,Civil & Infrastructure Tech,2026-06-03,The course content is interesting.,Neutral
+FDB-0191,Coding & AI Explorers,2025-04-30,My child enjoys the robotics sessions.,Positive
+FDB-0192,Biotechnology Basics,2025-06-17,My child enjoys the robotics sessions.,Positive
+FDB-0193,Space Science Lab,2026-07-05,We attended the scheduled session.,Neutral
+FDB-0194,Marine Technology,2026-10-29,Fun and engaging class with useful activities.,Positive
+FDB-0195,Biotechnology Basics,2025-11-29,Fun and engaging class with useful activities.,Positive
+FDB-0196,Agritech Innovation,2026-07-10,Excellent practical learning experience.,Positive
+FDB-0197,Agritech Innovation,2026-04-24,Great hands-on projects and helpful mentors.,Positive
+FDB-0198,Agritech Innovation,2025-02-07,Excellent practical learning experience.,Positive
+FDB-0199,Coding & AI Explorers,2026-09-09,The instructor explains concepts clearly.,Positive
+FDB-0200,Coding & AI Explorers,2026-09-19,My child enjoys the robotics sessions.,Positive
+FDB-0201,Marine Technology,2025-01-29,Fun and engaging class with useful activities.,Positive
+FDB-0202,Space Science Lab,2025-12-09,My child enjoys the robotics sessions.,Positive
+FDB-0203,Biotechnology Basics,2025-06-05,Excellent practical learning experience.,Positive
+FDB-0204,Marine Technology,2026-11-01,Excellent practical learning experience.,Positive
+FDB-0205,Agritech Innovation,2025-11-19,My child enjoys the robotics sessions.,Positive
+FDB-0206,Civil & Infrastructure Tech,2026-05-03,Great hands-on projects and helpful mentors.,Positive
+FDB-0207,Marine Technology,2025-10-23,Excellent practical learning experience.,Positive
+FDB-0208,Digital Fabrication,2026-09-27,Excellent practical learning experience.,Positive
+FDB-0209,Digital Fabrication,2026-11-02,Excellent practical learning experience.,Positive
+FDB-0210,Digital Fabrication,2025-07-17,We attended the scheduled session.,Neutral
+FDB-0211,Automobile Technology,2026-07-23,Great hands-on projects and helpful mentors.,Positive
+FDB-0212,Coding & AI Explorers,2026-11-08,My child enjoys the robotics sessions.,Positive
+FDB-0213,Automobile Technology,2026-09-05,Great hands-on projects and helpful mentors.,Positive
+FDB-0214,Civil & Infrastructure Tech,2026-08-10,We attended the scheduled session.,Neutral
+FDB-0215,Space Science Lab,2026-04-05,Fun and engaging class with useful activities.,Positive
+FDB-0216,Automobile Technology,2026-07-16,Great hands-on projects and helpful mentors.,Positive
+FDB-0217,Coding & AI Explorers,2026-07-14,Fun and engaging class with useful activities.,Positive
+FDB-0218,Automobile Technology,2026-07-23,My child enjoys the robotics sessions.,Positive
+FDB-0219,Marine Technology,2026-05-26,Excellent practical learning experience.,Positive
+FDB-0220,Robotics Foundations,2025-03-21,The project materials were provided.,Neutral
+FDB-0221,Marine Technology,2026-07-07,The course content is interesting.,Neutral
+FDB-0222,Biotechnology Basics,2025-12-11,The instructor explains concepts clearly.,Positive
+FDB-0223,Space Science Lab,2025-03-14,The class pace is sometimes too fast.,Negative
+FDB-0224,Digital Fabrication,2026-01-11,Excellent practical learning experience.,Positive
+FDB-0225,Biotechnology Basics,2025-03-26,The instructor explains concepts clearly.,Positive
+FDB-0226,Agritech Innovation,2026-10-27,The course content is interesting.,Neutral
+FDB-0227,Coding & AI Explorers,2026-03-25,Fun and engaging class with useful activities.,Positive
+FDB-0228,Biotechnology Basics,2026-08-18,My child enjoys the robotics sessions.,Positive
+FDB-0229,Robotics Foundations,2025-06-09,Excellent practical learning experience.,Positive
+FDB-0230,Biotechnology Basics,2026-07-28,Great hands-on projects and helpful mentors.,Positive
+FDB-0231,Marine Technology,2026-01-17,The schedule changes too often.,Negative
+FDB-0232,Space Science Lab,2025-08-14,The course content is interesting.,Neutral
+FDB-0233,Civil & Infrastructure Tech,2026-06-12,The course content is interesting.,Neutral
+FDB-0234,Automobile Technology,2025-07-08,We attended the scheduled session.,Neutral
+FDB-0235,Robotics Foundations,2026-10-30,The schedule changes too often.,Negative
+FDB-0236,Robotics Foundations,2025-02-12,Excellent practical learning experience.,Positive
+FDB-0237,Space Science Lab,2025-12-25,Excellent practical learning experience.,Positive
+FDB-0238,Robotics Foundations,2025-07-25,Excellent practical learning experience.,Positive
+FDB-0239,Civil & Infrastructure Tech,2025-12-07,We attended the scheduled session.,Neutral
+FDB-0240,Marine Technology,2026-03-18,Great hands-on projects and helpful mentors.,Positive
+FDB-0241,Biotechnology Basics,2025-07-22,The class pace is sometimes too fast.,Negative
+FDB-0242,Digital Fabrication,2025-08-14,The instructor explains concepts clearly.,Positive
+FDB-0243,Marine Technology,2026-04-27,Communication about sessions can improve.,Negative
+FDB-0244,Automobile Technology,2025-04-29,Fun and engaging class with useful activities.,Positive
+FDB-0245,Coding & AI Explorers,2026-02-15,My child enjoys the robotics sessions.,Positive
+FDB-0246,Civil & Infrastructure Tech,2025-12-26,Great hands-on projects and helpful mentors.,Positive
+FDB-0247,Biotechnology Basics,2026-02-05,The class pace is sometimes too fast.,Negative
+FDB-0248,Biotechnology Basics,2025-02-06,The schedule changes too often.,Negative
+FDB-0249,Robotics Foundations,2026-05-11,The course content is interesting.,Neutral
+FDB-0250,Space Science Lab,2026-01-25,We attended the scheduled session.,Neutral
+FDB-0251,Automobile Technology,2026-05-21,My child enjoys the robotics sessions.,Positive
+FDB-0252,Coding & AI Explorers,2026-08-22,The schedule changes too often.,Negative
+FDB-0253,Biotechnology Basics,2025-07-02,The project materials were provided.,Neutral
+FDB-0254,Coding & AI Explorers,2026-01-05,Need more time for practical projects.,Negative
+FDB-0255,Coding & AI Explorers,2026-07-22,The instructor explains concepts clearly.,Positive
+FDB-0256,Biotechnology Basics,2025-04-26,Great hands-on projects and helpful mentors.,Positive
+FDB-0257,Robotics Foundations,2025-08-16,Fun and engaging class with useful activities.,Positive
+FDB-0258,Automobile Technology,2025-02-19,Fun and engaging class with useful activities.,Positive
+FDB-0259,Space Science Lab,2025-04-06,Fun and engaging class with useful activities.,Positive
+FDB-0260,Space Science Lab,2025-10-03,The project materials were provided.,Neutral

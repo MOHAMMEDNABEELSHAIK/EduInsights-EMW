@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+eduinsights.db
+.streamlit/secrets.toml
+
+.streamlit/secrets.toml
+*.db
+__pycache__/
+.venv/
+.env

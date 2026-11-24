@@ -1,0 +1,546 @@
+payment_date,amount_inr,payment_status,course_name
+2025-01-01,3500,Paid,Agritech Innovation
+2025-01-06,7800,Paid,Space Science Lab
+2025-01-15,7800,Paid,Robotics Foundations
+2025-01-16,9000,Paid,Space Science Lab
+2025-01-25,8500,Paid,Civil & Infrastructure Tech
+2025-01-15,9000,Paid,Robotics Foundations
+2025-01-01,3500,Paid,Robotics Foundations
+2025-01-27,2500,Paid,Coding & AI Explorers
+2025-01-19,9000,Paid,Digital Fabrication
+2025-01-19,3500,Paid,Space Science Lab
+2025-01-10,7800,Paid,Robotics Foundations
+2025-01-03,4500,Paid,Agritech Innovation
+2025-01-22,2500,Paid,Automobile Technology
+2025-01-06,2500,Pending,Civil & Infrastructure Tech
+2025-01-19,6000,Paid,Coding & AI Explorers
+2025-01-10,6000,Paid,Space Science Lab
+2025-01-04,2500,Paid,Agritech Innovation
+2025-01-14,3500,Paid,Agritech Innovation
+2025-01-26,3500,Paid,Space Science Lab
+2025-01-20,4500,Pending,Civil & Infrastructure Tech
+2025-01-16,7800,Paid,Civil & Infrastructure Tech
+2025-01-04,2500,Paid,Space Science Lab
+2025-01-10,3500,Pending,Digital Fabrication
+2025-01-09,6000,Part-paid,Agritech Innovation
+2025-01-15,4500,Paid,Space Science Lab
+2025-01-19,2500,Pending,Robotics Foundations
+2025-01-03,8500,Paid,Space Science Lab
+2025-02-02,2500,Paid,Robotics Foundations
+2025-02-09,2500,Paid,Digital Fabrication
+2025-02-10,2500,Paid,Space Science Lab
+2025-02-27,8500,Part-paid,Space Science Lab
+2025-02-04,9000,Paid,Civil & Infrastructure Tech
+2025-02-05,7800,Paid,Marine Technology
+2025-02-20,6000,Paid,Digital Fabrication
+2025-02-12,6000,Paid,Civil & Infrastructure Tech
+2025-02-03,7800,Paid,Marine Technology
+2025-02-01,3500,Paid,Coding & AI Explorers
+2025-02-06,8500,Paid,Marine Technology
+2025-02-04,4500,Paid,Coding & AI Explorers
+2025-02-12,6000,Paid,Biotechnology Basics
+2025-02-20,7800,Paid,Space Science Lab
+2025-02-14,2500,Paid,Civil & Infrastructure Tech
+2025-02-26,6000,Paid,Coding & AI Explorers
+2025-02-01,2500,Paid,Civil & Infrastructure Tech
+2025-02-13,3500,Part-paid,Robotics Foundations
+2025-02-20,4500,Paid,Robotics Foundations
+2025-03-01,6000,Paid,Marine Technology
+2025-03-04,9000,Part-paid,Agritech Innovation
+2025-03-15,8500,Paid,Marine Technology
+2025-03-14,2500,Paid,Digital Fabrication
+2025-03-03,2500,Paid,Robotics Foundations
+2025-03-09,2500,Paid,Digital Fabrication
+2025-03-20,2500,Paid,Digital Fabrication
+2025-03-06,8500,Paid,Robotics Foundations
+2025-03-23,9000,Paid,Agritech Innovation
+2025-03-02,9000,Paid,Automobile Technology
+2025-03-01,2500,Paid,Space Science Lab
+2025-03-06,4500,Paid,Marine Technology
+2025-03-24,8500,Paid,Space Science Lab
+2025-03-06,4500,Pending,Biotechnology Basics
+2025-03-05,3500,Paid,Robotics Foundations
+2025-03-13,7800,Pending,Coding & AI Explorers
+2025-03-16,9000,Paid,Automobile Technology
+2025-03-25,2500,Paid,Civil & Infrastructure Tech
+2025-03-02,2500,Paid,Space Science Lab
+2025-04-10,6000,Paid,Marine Technology
+2025-04-16,7800,Paid,Digital Fabrication
+2025-04-09,3500,Paid,Biotechnology Basics
+2025-04-24,7800,Paid,Automobile Technology
+2025-04-09,7800,Paid,Automobile Technology
+2025-04-11,2500,Paid,Robotics Foundations
+2025-04-25,6000,Pending,Robotics Foundations
+2025-04-01,3500,Paid,Automobile Technology
+2025-04-12,7800,Pending,Robotics Foundations
+2025-04-15,6000,Part-paid,Robotics Foundations
+2025-04-08,2500,Pending,Digital Fabrication
+2025-04-18,6000,Paid,Marine Technology
+2025-04-19,9000,Part-paid,Agritech Innovation
+2025-04-15,6000,Paid,Digital Fabrication
+2025-04-04,4500,Part-paid,Automobile Technology
+2025-04-18,2500,Paid,Digital Fabrication
+2025-04-26,8500,Paid,Robotics Foundations
+2025-04-03,7800,Paid,Digital Fabrication
+2025-04-02,6000,Paid,Digital Fabrication
+2025-04-14,9000,Pending,Digital Fabrication
+2025-04-22,4500,Paid,Agritech Innovation
+2025-05-14,8500,Paid,Robotics Foundations
+2025-05-27,2500,Paid,Agritech Innovation
+2025-05-02,6000,Paid,Space Science Lab
+2025-05-12,7800,Pending,Automobile Technology
+2025-05-02,2500,Pending,Digital Fabrication
+2025-05-14,4500,Paid,Robotics Foundations
+2025-05-11,4500,Paid,Coding & AI Explorers
+2025-05-19,2500,Pending,Automobile Technology
+2025-05-25,4500,Paid,Digital Fabrication
+2025-05-05,6000,Part-paid,Agritech Innovation
+2025-05-07,8500,Paid,Robotics Foundations
+2025-05-27,4500,Paid,Biotechnology Basics
+2025-05-01,7800,Paid,Marine Technology
+2025-05-21,3500,Paid,Digital Fabrication
+2025-05-10,2500,Paid,Digital Fabrication
+2025-05-01,7800,Paid,Space Science Lab
+2025-05-09,9000,Paid,Digital Fabrication
+2025-05-22,6000,Paid,Robotics Foundations
+2025-05-01,3500,Pending,Civil & Infrastructure Tech
+2025-05-08,9000,Pending,Robotics Foundations
+2025-05-01,2500,Paid,Digital Fabrication
+2025-05-13,8500,Paid,Biotechnology Basics
+2025-05-08,8500,Pending,Automobile Technology
+2025-05-02,7800,Paid,Agritech Innovation
+2025-05-09,8500,Paid,Civil & Infrastructure Tech
+2025-05-14,6000,Paid,Agritech Innovation
+2025-05-12,4500,Paid,Agritech Innovation
+2025-05-22,8500,Pending,Coding & AI Explorers
+2025-05-26,4500,Paid,Marine Technology
+2025-05-10,7800,Pending,Civil & Infrastructure Tech
+2025-05-16,6000,Paid,Automobile Technology
+2025-05-06,7800,Paid,Digital Fabrication
+2025-06-17,6000,Paid,Civil & Infrastructure Tech
+2025-06-01,9000,Paid,Digital Fabrication
+2025-06-10,2500,Pending,Space Science Lab
+2025-06-20,8500,Paid,Automobile Technology
+2025-06-12,8500,Paid,Civil & Infrastructure Tech
+2025-06-16,4500,Paid,Robotics Foundations
+2025-06-27,8500,Paid,Automobile Technology
+2025-06-14,6000,Paid,Digital Fabrication
+2025-06-13,3500,Part-paid,Marine Technology
+2025-06-20,2500,Part-paid,Civil & Infrastructure Tech
+2025-06-13,9000,Paid,Civil & Infrastructure Tech
+2025-06-17,8500,Paid,Coding & AI Explorers
+2025-06-22,8500,Paid,Marine Technology
+2025-06-24,8500,Paid,Robotics Foundations
+2025-06-22,6000,Paid,Automobile Technology
+2025-06-03,9000,Pending,Coding & AI Explorers
+2025-06-27,6000,Paid,Civil & Infrastructure Tech
+2025-06-01,2500,Paid,Agritech Innovation
+2025-06-17,7800,Pending,Marine Technology
+2025-07-20,7800,Paid,Space Science Lab
+2025-07-09,4500,Paid,Digital Fabrication
+2025-07-15,9000,Paid,Coding & AI Explorers
+2025-07-09,7800,Paid,Agritech Innovation
+2025-07-27,9000,Paid,Space Science Lab
+2025-07-24,6000,Paid,Digital Fabrication
+2025-07-08,4500,Paid,Space Science Lab
+2025-07-08,2500,Paid,Digital Fabrication
+2025-07-15,9000,Paid,Biotechnology Basics
+2025-07-14,6000,Paid,Automobile Technology
+2025-07-03,9000,Paid,Space Science Lab
+2025-07-27,4500,Pending,Digital Fabrication
+2025-07-01,6000,Pending,Space Science Lab
+2025-07-09,3500,Paid,Automobile Technology
+2025-07-07,4500,Paid,Space Science Lab
+2025-07-09,7800,Pending,Biotechnology Basics
+2025-07-12,3500,Paid,Coding & AI Explorers
+2025-07-02,2500,Pending,Automobile Technology
+2025-07-17,4500,Paid,Biotechnology Basics
+2025-07-25,9000,Paid,Digital Fabrication
+2025-08-14,8500,Paid,Digital Fabrication
+2025-08-13,8500,Paid,Space Science Lab
+2025-08-22,6000,Paid,Robotics Foundations
+2025-08-13,9000,Pending,Automobile Technology
+2025-08-24,4500,Paid,Civil & Infrastructure Tech
+2025-08-19,4500,Paid,Robotics Foundations
+2025-08-14,9000,Part-paid,Coding & AI Explorers
+2025-08-21,2500,Paid,Space Science Lab
+2025-08-07,7800,Paid,Coding & AI Explorers
+2025-08-10,7800,Paid,Agritech Innovation
+2025-08-17,2500,Paid,Civil & Infrastructure Tech
+2025-08-16,7800,Paid,Biotechnology Basics
+2025-08-05,8500,Part-paid,Space Science Lab
+2025-08-14,7800,Paid,Automobile Technology
+2025-08-13,3500,Paid,Digital Fabrication
+2025-08-10,6000,Pending,Coding & AI Explorers
+2025-08-19,9000,Paid,Marine Technology
+2025-08-06,2500,Part-paid,Agritech Innovation
+2025-09-21,4500,Paid,Space Science Lab
+2025-09-02,6000,Paid,Digital Fabrication
+2025-09-08,8500,Paid,Marine Technology
+2025-09-08,7800,Pending,Robotics Foundations
+2025-09-18,3500,Paid,Automobile Technology
+2025-09-21,3500,Paid,Biotechnology Basics
+2025-09-08,3500,Pending,Automobile Technology
+2025-09-09,9000,Paid,Coding & AI Explorers
+2025-09-15,3500,Paid,Digital Fabrication
+2025-09-03,6000,Paid,Coding & AI Explorers
+2025-09-19,9000,Paid,Coding & AI Explorers
+2025-09-06,9000,Pending,Civil & Infrastructure Tech
+2025-09-07,7800,Paid,Space Science Lab
+2025-09-12,4500,Paid,Coding & AI Explorers
+2025-09-27,4500,Paid,Digital Fabrication
+2025-09-10,8500,Paid,Marine Technology
+2025-09-01,4500,Pending,Digital Fabrication
+2025-09-24,4500,Paid,Space Science Lab
+2025-09-09,3500,Paid,Robotics Foundations
+2025-09-20,2500,Paid,Coding & AI Explorers
+2025-09-20,6000,Paid,Automobile Technology
+2025-09-03,7800,Part-paid,Biotechnology Basics
+2025-09-17,7800,Paid,Automobile Technology
+2025-09-02,3500,Paid,Marine Technology
+2025-09-22,6000,Paid,Civil & Infrastructure Tech
+2025-09-12,3500,Paid,Space Science Lab
+2025-09-14,2500,Paid,Automobile Technology
+2025-10-03,3500,Paid,Civil & Infrastructure Tech
+2025-10-19,6000,Paid,Robotics Foundations
+2025-10-18,4500,Paid,Digital Fabrication
+2025-10-12,9000,Pending,Automobile Technology
+2025-10-05,8500,Part-paid,Marine Technology
+2025-10-21,9000,Pending,Digital Fabrication
+2025-10-11,8500,Pending,Digital Fabrication
+2025-10-26,7800,Paid,Agritech Innovation
+2025-10-16,6000,Pending,Coding & AI Explorers
+2025-10-12,8500,Pending,Digital Fabrication
+2025-10-24,9000,Paid,Marine Technology
+2025-10-20,2500,Part-paid,Automobile Technology
+2025-10-06,9000,Paid,Marine Technology
+2025-10-16,9000,Part-paid,Coding & AI Explorers
+2025-10-06,3500,Paid,Civil & Infrastructure Tech
+2025-10-22,8500,Paid,Biotechnology Basics
+2025-10-13,3500,Pending,Digital Fabrication
+2025-10-14,2500,Paid,Robotics Foundations
+2025-10-06,3500,Pending,Automobile Technology
+2025-10-09,7800,Paid,Coding & AI Explorers
+2025-10-21,6000,Paid,Coding & AI Explorers
+2025-10-21,7800,Paid,Agritech Innovation
+2025-10-13,3500,Paid,Robotics Foundations
+2025-10-26,3500,Part-paid,Coding & AI Explorers
+2025-10-13,4500,Paid,Space Science Lab
+2025-10-07,8500,Pending,Robotics Foundations
+2025-10-23,6000,Paid,Space Science Lab
+2025-10-18,4500,Part-paid,Marine Technology
+2025-10-10,9000,Paid,Marine Technology
+2025-10-23,6000,Paid,Digital Fabrication
+2025-10-14,7800,Paid,Digital Fabrication
+2025-10-21,2500,Paid,Civil & Infrastructure Tech
+2025-11-23,3500,Paid,Civil & Infrastructure Tech
+2025-11-10,6000,Pending,Coding & AI Explorers
+2025-11-26,6000,Paid,Coding & AI Explorers
+2025-11-17,7800,Paid,Automobile Technology
+2025-11-09,2500,Paid,Robotics Foundations
+2025-11-03,6000,Paid,Agritech Innovation
+2025-11-18,6000,Paid,Digital Fabrication
+2025-11-01,3500,Paid,Space Science Lab
+2025-11-06,2500,Paid,Space Science Lab
+2025-11-08,2500,Paid,Agritech Innovation
+2025-11-18,8500,Part-paid,Marine Technology
+2025-11-07,8500,Paid,Digital Fabrication
+2025-11-04,9000,Paid,Marine Technology
+2025-11-20,6000,Paid,Civil & Infrastructure Tech
+2025-11-12,2500,Paid,Space Science Lab
+2025-11-22,8500,Paid,Biotechnology Basics
+2025-11-17,2500,Paid,Agritech Innovation
+2025-11-15,8500,Paid,Space Science Lab
+2025-11-08,2500,Part-paid,Space Science Lab
+2025-11-18,7800,Paid,Biotechnology Basics
+2025-11-17,8500,Paid,Biotechnology Basics
+2025-11-08,4500,Paid,Automobile Technology
+2025-11-19,9000,Pending,Robotics Foundations
+2025-11-12,3500,Paid,Digital Fabrication
+2025-11-18,6000,Paid,Marine Technology
+2025-12-26,9000,Paid,Agritech Innovation
+2025-12-18,7800,Paid,Robotics Foundations
+2025-12-08,6000,Paid,Biotechnology Basics
+2025-12-26,4500,Paid,Biotechnology Basics
+2025-12-17,3500,Pending,Coding & AI Explorers
+2025-12-04,6000,Paid,Biotechnology Basics
+2025-12-03,2500,Paid,Agritech Innovation
+2025-12-24,7800,Paid,Coding & AI Explorers
+2025-12-26,6000,Paid,Space Science Lab
+2025-12-01,3500,Paid,Automobile Technology
+2025-12-13,2500,Paid,Biotechnology Basics
+2025-12-05,2500,Paid,Marine Technology
+2025-12-27,7800,Paid,Biotechnology Basics
+2025-12-05,9000,Paid,Digital Fabrication
+2025-12-12,4500,Pending,Automobile Technology
+2025-12-13,7800,Paid,Space Science Lab
+2026-01-07,2500,Part-paid,Robotics Foundations
+2026-01-23,8500,Paid,Civil & Infrastructure Tech
+2026-01-14,2500,Paid,Agritech Innovation
+2026-01-14,7800,Pending,Agritech Innovation
+2026-01-26,7800,Paid,Robotics Foundations
+2026-01-11,9000,Paid,Coding & AI Explorers
+2026-01-12,3500,Pending,Automobile Technology
+2026-01-20,3500,Paid,Agritech Innovation
+2026-01-14,7800,Pending,Agritech Innovation
+2026-01-24,6000,Pending,Agritech Innovation
+2026-01-05,6000,Paid,Digital Fabrication
+2026-01-24,3500,Paid,Biotechnology Basics
+2026-01-05,4500,Paid,Civil & Infrastructure Tech
+2026-01-15,4500,Paid,Marine Technology
+2026-01-14,3500,Pending,Coding & AI Explorers
+2026-01-10,3500,Paid,Civil & Infrastructure Tech
+2026-01-09,6000,Paid,Automobile Technology
+2026-01-23,2500,Pending,Coding & AI Explorers
+2026-01-18,6000,Paid,Space Science Lab
+2026-01-14,7800,Paid,Robotics Foundations
+2026-01-02,3500,Paid,Space Science Lab
+2026-01-18,4500,Paid,Agritech Innovation
+2026-01-10,2500,Paid,Digital Fabrication
+2026-01-06,4500,Paid,Marine Technology
+2026-01-06,9000,Paid,Automobile Technology
+2026-01-03,9000,Paid,Digital Fabrication
+2026-01-04,4500,Part-paid,Marine Technology
+2026-01-26,8500,Paid,Automobile Technology
+2026-01-02,7800,Part-paid,Coding & AI Explorers
+2026-01-26,7800,Paid,Robotics Foundations
+2026-01-10,4500,Paid,Coding & AI Explorers
+2026-01-19,9000,Paid,Space Science Lab
+2026-01-10,2500,Paid,Marine Technology
+2026-01-05,3500,Paid,Biotechnology Basics
+2026-02-26,7800,Paid,Coding & AI Explorers
+2026-02-20,3500,Paid,Marine Technology
+2026-02-06,9000,Paid,Robotics Foundations
+2026-02-19,6000,Paid,Biotechnology Basics
+2026-02-03,7800,Paid,Biotechnology Basics
+2026-02-06,3500,Paid,Coding & AI Explorers
+2026-02-02,6000,Paid,Coding & AI Explorers
+2026-02-02,9000,Part-paid,Digital Fabrication
+2026-02-27,6000,Paid,Biotechnology Basics
+2026-02-23,4500,Paid,Space Science Lab
+2026-02-01,7800,Paid,Robotics Foundations
+2026-02-20,4500,Paid,Marine Technology
+2026-02-20,3500,Pending,Biotechnology Basics
+2026-02-12,3500,Paid,Marine Technology
+2026-02-05,2500,Paid,Agritech Innovation
+2026-02-12,3500,Paid,Space Science Lab
+2026-02-08,9000,Pending,Coding & AI Explorers
+2026-02-15,2500,Paid,Space Science Lab
+2026-02-15,7800,Paid,Space Science Lab
+2026-02-27,2500,Paid,Civil & Infrastructure Tech
+2026-02-06,9000,Paid,Coding & AI Explorers
+2026-02-12,9000,Pending,Space Science Lab
+2026-02-26,6000,Paid,Marine Technology
+2026-02-17,6000,Pending,Biotechnology Basics
+2026-02-14,3500,Paid,Biotechnology Basics
+2026-02-06,6000,Paid,Robotics Foundations
+2026-02-11,7800,Pending,Space Science Lab
+2026-03-11,2500,Paid,Digital Fabrication
+2026-03-14,8500,Paid,Automobile Technology
+2026-03-25,8500,Paid,Agritech Innovation
+2026-03-18,3500,Paid,Biotechnology Basics
+2026-03-10,2500,Part-paid,Automobile Technology
+2026-03-05,7800,Paid,Agritech Innovation
+2026-03-13,7800,Pending,Digital Fabrication
+2026-03-05,4500,Part-paid,Coding & AI Explorers
+2026-03-11,4500,Part-paid,Digital Fabrication
+2026-03-20,7800,Paid,Agritech Innovation
+2026-03-16,3500,Pending,Coding & AI Explorers
+2026-03-18,3500,Paid,Digital Fabrication
+2026-03-25,9000,Paid,Coding & AI Explorers
+2026-03-11,7800,Paid,Civil & Infrastructure Tech
+2026-03-05,2500,Paid,Robotics Foundations
+2026-03-12,7800,Paid,Robotics Foundations
+2026-03-05,9000,Paid,Agritech Innovation
+2026-03-10,3500,Paid,Robotics Foundations
+2026-03-09,6000,Pending,Agritech Innovation
+2026-03-09,6000,Paid,Coding & AI Explorers
+2026-03-02,7800,Paid,Coding & AI Explorers
+2026-03-21,8500,Pending,Biotechnology Basics
+2026-03-06,3500,Paid,Coding & AI Explorers
+2026-03-06,7800,Paid,Biotechnology Basics
+2026-03-19,6000,Paid,Civil & Infrastructure Tech
+2026-03-16,7800,Paid,Agritech Innovation
+2026-04-09,9000,Paid,Civil & Infrastructure Tech
+2026-04-20,2500,Pending,Automobile Technology
+2026-04-14,6000,Paid,Marine Technology
+2026-04-23,9000,Paid,Automobile Technology
+2026-04-10,8500,Paid,Digital Fabrication
+2026-04-16,4500,Paid,Digital Fabrication
+2026-04-15,6000,Part-paid,Agritech Innovation
+2026-04-22,7800,Paid,Digital Fabrication
+2026-04-12,9000,Paid,Robotics Foundations
+2026-04-15,8500,Pending,Agritech Innovation
+2026-04-14,9000,Paid,Digital Fabrication
+2026-04-17,2500,Paid,Biotechnology Basics
+2026-04-04,6000,Paid,Coding & AI Explorers
+2026-04-14,2500,Paid,Digital Fabrication
+2026-04-05,8500,Paid,Robotics Foundations
+2026-04-15,8500,Paid,Robotics Foundations
+2026-04-14,6000,Paid,Robotics Foundations
+2026-04-01,2500,Paid,Automobile Technology
+2026-04-03,4500,Paid,Agritech Innovation
+2026-04-15,4500,Paid,Biotechnology Basics
+2026-04-20,7800,Paid,Biotechnology Basics
+2026-05-01,2500,Paid,Space Science Lab
+2026-05-06,7800,Paid,Agritech Innovation
+2026-05-15,9000,Paid,Coding & AI Explorers
+2026-05-18,2500,Paid,Space Science Lab
+2026-05-27,4500,Paid,Marine Technology
+2026-05-13,9000,Paid,Civil & Infrastructure Tech
+2026-05-09,9000,Paid,Automobile Technology
+2026-05-22,2500,Paid,Marine Technology
+2026-05-16,9000,Paid,Automobile Technology
+2026-05-25,3500,Paid,Automobile Technology
+2026-05-24,7800,Paid,Agritech Innovation
+2026-05-25,9000,Paid,Digital Fabrication
+2026-05-25,2500,Paid,Civil & Infrastructure Tech
+2026-05-14,3500,Paid,Robotics Foundations
+2026-05-27,6000,Pending,Civil & Infrastructure Tech
+2026-05-08,9000,Paid,Agritech Innovation
+2026-05-03,9000,Paid,Civil & Infrastructure Tech
+2026-05-03,7800,Pending,Coding & AI Explorers
+2026-05-23,2500,Paid,Robotics Foundations
+2026-05-21,9000,Paid,Automobile Technology
+2026-05-19,2500,Paid,Automobile Technology
+2026-05-06,8500,Paid,Automobile Technology
+2026-05-02,6000,Paid,Marine Technology
+2026-05-16,2500,Paid,Coding & AI Explorers
+2026-05-10,2500,Part-paid,Space Science Lab
+2026-05-19,6000,Paid,Coding & AI Explorers
+2026-05-21,4500,Paid,Digital Fabrication
+2026-05-06,6000,Paid,Digital Fabrication
+2026-05-24,3500,Paid,Biotechnology Basics
+2026-05-07,8500,Paid,Civil & Infrastructure Tech
+2026-05-13,8500,Paid,Automobile Technology
+2026-05-02,6000,Paid,Coding & AI Explorers
+2026-05-22,9000,Paid,Marine Technology
+2026-06-18,8500,Pending,Coding & AI Explorers
+2026-06-13,6000,Paid,Agritech Innovation
+2026-06-12,3500,Pending,Space Science Lab
+2026-06-01,9000,Pending,Coding & AI Explorers
+2026-06-08,4500,Paid,Coding & AI Explorers
+2026-06-06,6000,Pending,Agritech Innovation
+2026-06-19,2500,Paid,Marine Technology
+2026-06-13,6000,Paid,Civil & Infrastructure Tech
+2026-06-16,9000,Pending,Biotechnology Basics
+2026-06-08,6000,Paid,Digital Fabrication
+2026-06-20,6000,Paid,Agritech Innovation
+2026-06-23,6000,Paid,Digital Fabrication
+2026-06-14,9000,Paid,Coding & AI Explorers
+2026-06-22,7800,Paid,Digital Fabrication
+2026-06-24,2500,Paid,Civil & Infrastructure Tech
+2026-06-24,9000,Paid,Space Science Lab
+2026-06-27,2500,Paid,Coding & AI Explorers
+2026-06-17,8500,Pending,Coding & AI Explorers
+2026-06-26,3500,Pending,Civil & Infrastructure Tech
+2026-06-06,7800,Paid,Civil & Infrastructure Tech
+2026-06-06,2500,Paid,Coding & AI Explorers
+2026-06-03,8500,Pending,Marine Technology
+2026-06-12,4500,Paid,Coding & AI Explorers
+2026-06-16,9000,Paid,Agritech Innovation
+2026-06-23,6000,Paid,Coding & AI Explorers
+2026-06-27,4500,Paid,Biotechnology Basics
+2026-06-06,2500,Paid,Coding & AI Explorers
+2026-06-10,8500,Paid,Civil & Infrastructure Tech
+2026-07-15,9000,Paid,Digital Fabrication
+2026-07-22,8500,Paid,Agritech Innovation
+2026-07-17,6000,Pending,Civil & Infrastructure Tech
+2026-07-01,8500,Paid,Marine Technology
+2026-07-23,9000,Paid,Agritech Innovation
+2026-07-19,2500,Paid,Civil & Infrastructure Tech
+2026-07-15,4500,Paid,Robotics Foundations
+2026-07-11,8500,Pending,Civil & Infrastructure Tech
+2026-07-03,7800,Paid,Civil & Infrastructure Tech
+2026-07-24,6000,Pending,Automobile Technology
+2026-07-02,3500,Paid,Robotics Foundations
+2026-07-22,6000,Pending,Civil & Infrastructure Tech
+2026-07-04,2500,Paid,Coding & AI Explorers
+2026-07-03,3500,Paid,Biotechnology Basics
+2026-07-26,9000,Pending,Automobile Technology
+2026-07-20,6000,Pending,Marine Technology
+2026-08-27,2500,Paid,Marine Technology
+2026-08-02,6000,Paid,Civil & Infrastructure Tech
+2026-08-24,9000,Paid,Automobile Technology
+2026-08-14,7800,Paid,Automobile Technology
+2026-08-21,6000,Paid,Civil & Infrastructure Tech
+2026-08-27,9000,Paid,Automobile Technology
+2026-08-11,6000,Paid,Biotechnology Basics
+2026-08-04,8500,Paid,Biotechnology Basics
+2026-08-24,2500,Paid,Robotics Foundations
+2026-08-05,9000,Paid,Marine Technology
+2026-08-12,8500,Paid,Automobile Technology
+2026-08-25,3500,Paid,Robotics Foundations
+2026-08-21,4500,Paid,Coding & AI Explorers
+2026-08-13,2500,Pending,Digital Fabrication
+2026-08-14,4500,Paid,Digital Fabrication
+2026-08-20,3500,Paid,Marine Technology
+2026-08-04,8500,Paid,Space Science Lab
+2026-08-18,2500,Paid,Biotechnology Basics
+2026-08-17,3500,Paid,Biotechnology Basics
+2026-09-23,8500,Pending,Digital Fabrication
+2026-09-21,6000,Paid,Robotics Foundations
+2026-09-21,6000,Paid,Agritech Innovation
+2026-09-25,6000,Pending,Biotechnology Basics
+2026-09-21,3500,Paid,Marine Technology
+2026-09-02,7800,Paid,Automobile Technology
+2026-09-17,3500,Paid,Civil & Infrastructure Tech
+2026-09-15,9000,Paid,Robotics Foundations
+2026-09-19,6000,Paid,Marine Technology
+2026-09-05,6000,Paid,Marine Technology
+2026-09-10,7800,Paid,Agritech Innovation
+2026-09-06,6000,Paid,Coding & AI Explorers
+2026-09-08,2500,Paid,Digital Fabrication
+2026-09-25,8500,Paid,Digital Fabrication
+2026-09-21,7800,Paid,Digital Fabrication
+2026-09-23,4500,Paid,Space Science Lab
+2026-09-10,4500,Paid,Space Science Lab
+2026-09-09,3500,Pending,Digital Fabrication
+2026-10-03,9000,Paid,Agritech Innovation
+2026-10-14,6000,Paid,Automobile Technology
+2026-10-01,2500,Part-paid,Digital Fabrication
+2026-10-17,7800,Paid,Space Science Lab
+2026-10-15,3500,Paid,Biotechnology Basics
+2026-10-19,7800,Paid,Automobile Technology
+2026-10-23,8500,Paid,Biotechnology Basics
+2026-10-10,4500,Part-paid,Marine Technology
+2026-10-05,9000,Paid,Coding & AI Explorers
+2026-10-10,7800,Part-paid,Civil & Infrastructure Tech
+2026-10-07,2500,Paid,Civil & Infrastructure Tech
+2026-10-01,7800,Paid,Civil & Infrastructure Tech
+2026-10-14,2500,Paid,Marine Technology
+2026-10-25,3500,Pending,Biotechnology Basics
+2026-10-27,6000,Paid,Agritech Innovation
+2026-10-24,8500,Paid,Biotechnology Basics
+2026-10-24,7800,Paid,Space Science Lab
+2026-10-05,2500,Paid,Automobile Technology
+2026-10-15,9000,Pending,Agritech Innovation
+2026-10-06,9000,Paid,Robotics Foundations
+2026-10-08,2500,Paid,Biotechnology Basics
+2026-10-01,6000,Pending,Robotics Foundations
+2026-10-21,6000,Paid,Robotics Foundations
+2026-10-21,7800,Paid,Robotics Foundations
+2026-10-04,6000,Paid,Biotechnology Basics
+2026-10-24,3500,Paid,Coding & AI Explorers
+2026-11-21,7800,Paid,Digital Fabrication
+2026-11-24,9000,Paid,Coding & AI Explorers
+2026-11-07,4500,Paid,Digital Fabrication
+2026-11-09,7800,Paid,Automobile Technology
+2026-11-20,2500,Paid,Civil & Infrastructure Tech
+2026-11-21,9000,Paid,Digital Fabrication
+2026-11-01,6000,Paid,Civil & Infrastructure Tech
+2026-11-19,8500,Paid,Space Science Lab
+2026-11-19,8500,Paid,Marine Technology
+2026-11-18,9000,Paid,Agritech Innovation
+2026-11-04,2500,Paid,Biotechnology Basics
+2026-11-24,7800,Paid,Coding & AI Explorers
+2026-11-25,2500,Paid,Biotechnology Basics
+2026-11-27,7800,Paid,Agritech Innovation
+2026-11-15,3500,Part-paid,Coding & AI Explorers
+2026-11-07,2500,Paid,Automobile Technology
+2026-11-06,2500,Paid,Space Science Lab
+2026-11-01,6000,Paid,Automobile Technology
+2026-11-05,8500,Paid,Agritech Innovation
+2026-11-20,4500,Paid,Robotics Foundations
+2026-11-18,9000,Paid,Robotics Foundations
+2026-11-08,9000,Paid,Digital Fabrication
